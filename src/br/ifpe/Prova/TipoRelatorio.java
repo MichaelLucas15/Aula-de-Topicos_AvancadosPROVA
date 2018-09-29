@@ -1,0 +1,10 @@
+package br.ifpe.Prova;
+
+public enum TipoRelatorio {
+	SOMA,
+	SUBTRACAO,
+	MULTIPLICACAO,
+	DIVISAO,
+	VERIFICA_MAIOR_NUMERO,
+	VERIFICA_MENOR_NUMERO
+}
